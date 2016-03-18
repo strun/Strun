@@ -1,7 +1,7 @@
 /*
 * Strun is a CSS framework to create buttons in HTML
 * Users can use Strun to easily create buttons using
-* <a href> or <button> tags in HTML
+* <a class=".st .st-colorname .st-size"> or <button class=".st .st-colorname .st-size"> tags in HTML
 * Written by Sandeep Tripathy
 * (C) 2016 - Present Sandeep Tripathy
 */
@@ -157,6 +157,6 @@
 .st-disabled,
 a:disabled,
 button:disabled {
-  cursor: not-allowed;
+  cursor: not-allowed !important;
   background-color: #BDBDBD;
 }
