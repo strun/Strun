@@ -1,7 +1,7 @@
 /*
 * Strun is a CSS framework to create buttons in HTML
 * Users can use Strun to easily create buttons using
-* <a class=".st .st-colorname .st-size"> or <button class=".st .st-colorname .st-size"> tags in HTML
+* <a class="st st-colorname st-size"> or <button class="st st-colorname st-size"> tags in HTML
 * Written by Sandeep Tripathy
 * (C) 2016 - Present Sandeep Tripathy
 */
@@ -39,6 +39,7 @@
 }
 .st-green:hover {
   background-color: #33691E;
+  color: #fafafa;
 }
 
 .st-dark-green{
@@ -47,6 +48,7 @@
 }
 .st-dark-green:hover {
   background-color: #004D40;
+  color: #fafafa;
 }
 
 .st-red{
@@ -55,6 +57,7 @@
 }
 .st-red:hover {
   background-color: #b71c1c;
+  color: #fafafa;
 }
 
 .st-blue {
@@ -63,6 +66,7 @@
 }
 .st-blue:hover {
   background-color: #01579B;
+  color: #fafafa;
 }
 
 .st-dark-blue {
@@ -71,6 +75,7 @@
 }
 .st-dark-blue:hover {
   background-color: #0D47A1;
+  color: #fafafa;
 }
 
 .st-yellow {
@@ -79,6 +84,7 @@
 }
 .st-yellow:hover {
   background-color: #F57F17;
+  color: #fafafa;
 }
 
 .st-cyan {
@@ -87,6 +93,7 @@
 }
 .st-cyan:hover {
   background-color: #006064;
+  color: #fafafa;
 }
 
 .st-pink {
@@ -95,6 +102,7 @@
 }
 .st-pink:hover {
   background-color: #880E4F;
+  color: #fafafa;
 }
 
 .st-purple {
@@ -103,14 +111,16 @@
 }
 .st-purple:hover {
     background-color: #311B92;
+    color: #fafafa;
 }
 
 .st-white {
   background-color: #fafafa;
-  color: #424242;
+  color: #424242 !important;
 }
 .st-white:hover {
   background-color: #BDBDBD;
+  color: #424242 !important;
 }
 
 .st-black{
@@ -119,6 +129,7 @@
 }
 .st-black:hover {
   background-color: #424242;
+  color: #fafafa;
 }
 /* Shapes */
 .st-no-curve {
@@ -133,6 +144,7 @@
 }
 .st-success:hover {
   background-color: #558B2F;
+  color: #fafafa;
 }
 
 .st-danger{
@@ -142,6 +154,7 @@
 }
 .st-danger:hover {
   background-color: #c62828;
+  color: #fafafa;
 }
 
 .st-warning{
@@ -151,6 +164,7 @@
 }
 .st-warning:hover {
   background-color: #EF6C00;
+  color: #fafafa;
 }
 
 /* conditions */
