@@ -36,7 +36,6 @@ The colors of buttons can be decided using .st-_colorname_
 - st-purple
 - st-white
 - st-black
-- st-no-curve {
 
 ### More Features
 Some other features include 
