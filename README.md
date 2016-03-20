@@ -5,7 +5,8 @@ Strun is a CSS framework for adding buttons in HTML. Web developers/designers ca
 
 ## How to use
 The following code needs to be placed in the Head tags.
-![]({{site.baseurl}}/http://i.imgur.com/Pwe0fGF.png)
+
+![](https://i.imgur.com/Pwe0fGF.png)
 All buttons need to have the basic _**st**_ class to initialize the framework.
 
 ### Sizes
